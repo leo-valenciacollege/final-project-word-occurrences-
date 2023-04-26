@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"application","l":"Main"},{"p":"application","l":"MainSceneController"},{"p":"application","l":"WordOccurrence"},{"p":"application","l":"WordOccurrenceTest"}];updateSearchResults();
